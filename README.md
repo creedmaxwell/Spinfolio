@@ -2,6 +2,8 @@
 
 Track and manage your vinyl records, CDs, and cassette collections with Spinfolio — a modern, full-stack media cataloging app.
 
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/fdc0d826-1f21-4c08-98c1-babb291d6f4a" />
+
 ## 🧠 About
 
 Spinfolio is a web application to help music lovers catalog their physical media (vinyl, CDs, cassettes). It provides:
